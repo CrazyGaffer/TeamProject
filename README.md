@@ -11,4 +11,4 @@ Tech Stack: Firebase for database connection. Java for programming language. And
 Link to Asana project board https://app.asana.com/0/1199564293343919/list
 
 
-Roman mostly dealt with code and degisn and Ursel dealt with app design and general project management
+Roman mostly dealt with code and design and Ursel dealt with app design and general project management
