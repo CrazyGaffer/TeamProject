@@ -10,5 +10,6 @@ Tech Stack: Firebase for database connection. Java for programming language. And
 
 Link to Asana project board https://app.asana.com/0/1199564293343919/list
 
+Our weather app is an application that is developed in Android Studio. It uses public API for fetching the real time data and renders it on our app. All of the major cities across world are displayed in our app with very frequent updates on temperature changes.
 
-Roman mostly dealt with code and design and Ursel dealt with app design and general project management
+Short Summary: Roman and Ursel both generated the idea and split the work as follows: Roman wrote mainly the code and Ursel managed the design and project management side.
